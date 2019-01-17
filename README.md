@@ -31,7 +31,7 @@ Allowed options:
 Dependecies:
 * Boost 
 * SpaceLand (https://sourceforge.net/projects/spacelib)
-* PLY and PLY I/O
+* PLY and PLY I/O (included in the repository)
 
 Instructions:
 * compile ply and ply_io by using cmake (CMake gui for generating Visual Studio solution, cmake for generating Makefile for Unix systems)
