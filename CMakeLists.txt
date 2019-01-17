@@ -3,11 +3,6 @@ project (glam)
 
 set(EXTERNAL_DIR "../../../external")
 
-# options
-#option( VSF_USE_DATA_ASYNC   "use the asynchronous data backend" ON )
-#option( VSF_USE_DATA_DYNAMIC "use the dynamic data backend"      ON )
-#option( VSF_USE_DATA_16BIT   "use backend with 16bit packed data"      ON )
-
 # BOOST
  set(BOOST_LIBRARYDIR "C:/Boost/lib")
  set(Boost_ADDITIONAL_VERSIONS "1.66" "1.66.0")
